@@ -1,1 +1,1 @@
-It's a personal practice problems and trying to understand all the basic topics in python with examples 
+This is for personal practice and to help me understand all the fundamental Python topics through examples. 
